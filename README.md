@@ -1,4 +1,9 @@
+[![Linkedin Badge](https://img.shields.io/badge/-lucaswantz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-wantz-da-motta/)](https://www.linkedin.com/in/lucas-wantz-da-motta/) 
+[![Gmail Badge](https://img.shields.io/badge/lucaswantz@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaswantz@hotmail.com)](mailto:lucaswantz@hotmail.com)
+
 ### Hi there 👋
+
+
 
 <!--
 **lucaswantz/lucaswantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
