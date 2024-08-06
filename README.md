@@ -5,7 +5,7 @@
 
 Full Stack Developer com mais de 9 anos de experiência em desenvolvimento, trabalho com desenvolvimento de aplicações escalaveis com milhares de usuários. Recentemente meu foco tem sido voltado ao desenvolvimento de soluções financeiras e para pagamentos de aplicações SAAS.
 
-Acabo não utilizando muito o github pessoal pois tenho um para trabalh, porém recenetemente tenho trabalhado bastante com Node para desenvolvimento de aplicações para a Pós e iniciei meu aprendizado em Go.
+Acabo não utilizando muito o github pessoal pois tenho um para [trabalho](https://github.com/lucaswantztiny), porém recenetemente tenho trabalhado bastante com Node para desenvolvimento de aplicações para a Pós e iniciei meu aprendizado em Go.
 
 <!--
 **lucaswantz/lucaswantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
