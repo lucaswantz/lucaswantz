@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lucaswantz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-wantz-da-motta/)](https://www.linkedin.com/in/lucas-wantz-da-motta/) 
-[![Gmail Badge](https://img.shields.io/badge/lucaswantz@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaswantz@hotmail.com)](mailto:lucaswantz@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/lucaswantzg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucaswantzg@gmail.com)](mailto:lucaswantzg@gmail.com)
 
 ### Bem vindo 👋
 
